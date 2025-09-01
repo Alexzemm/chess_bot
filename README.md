@@ -21,3 +21,14 @@ Language: Python
 Libraries: python-chess
 
 Algorithms: Minimax, Alpha-Beta Pruning, Quiescence search
+
+## 📸 Screenshots
+
+### 1. Game Start
+![Game Start](asset/img1.png)
+
+### 2. Checkmate in game 1
+![Checkmate1](asset/img2.png)
+
+### 3. Checkmate in game 2
+![Checkmate2](asset/img3.png)
