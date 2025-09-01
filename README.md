@@ -20,4 +20,4 @@ Language: Python
 
 Libraries: python-chess
 
-Algorithms: Minimax, Alpha-Beta Pruning, Game Theory Concepts
+Algorithms: Minimax, Alpha-Beta Pruning, Quiescence search
